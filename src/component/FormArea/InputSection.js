@@ -58,6 +58,7 @@ export default function InputSection({
 InputSection.propTypes = {
   template: PropTypes.shape({
     title: PropTypes.string,
+    description: PropTypes.string,
     type: PropTypes.string,
     name: PropTypes.string,
     placeholder: PropTypes.string,
