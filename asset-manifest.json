@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/lazy-form/static/css/main.9c3906bf.chunk.css",
-    "main.js": "/lazy-form/static/js/main.25fec053.chunk.js",
-    "main.js.map": "/lazy-form/static/js/main.25fec053.chunk.js.map",
+    "main.js": "/lazy-form/static/js/main.41591f5d.chunk.js",
+    "main.js.map": "/lazy-form/static/js/main.41591f5d.chunk.js.map",
     "runtime-main.js": "/lazy-form/static/js/runtime-main.d371cf88.js",
     "runtime-main.js.map": "/lazy-form/static/js/runtime-main.d371cf88.js.map",
     "static/js/2.35f80003.chunk.js": "/lazy-form/static/js/2.35f80003.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d371cf88.js",
     "static/js/2.35f80003.chunk.js",
     "static/css/main.9c3906bf.chunk.css",
-    "static/js/main.25fec053.chunk.js"
+    "static/js/main.41591f5d.chunk.js"
   ]
 }
